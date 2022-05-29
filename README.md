@@ -1,6 +1,6 @@
 # Sensors-System-For-a-Motorized-Wheelchair-Project
 
-The code in main.c 
+The main code in main.c 
 
 TOF code in app_tof.c and  app_tof.h 
 
